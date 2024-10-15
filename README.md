@@ -1,5 +1,5 @@
 
-# Smart_India_Hackathon
+# Smart_India_Hackathon (BlueSentinel)
 ## (Detecting oil spills at marine environment using Automatic Identification System (AIS) and satellite datasets)
 
 ### Problem Statement ID : 1655	
